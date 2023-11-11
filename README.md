@@ -1,6 +1,8 @@
 ### Description
 > - My simple biodata. The technologies are just vanilla HTML and CSS.
 
+> - URL: https://kentlouisetonino.github.io/biodata/
+
 <br />
 
 ### Development Guide
