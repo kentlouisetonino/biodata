@@ -10,6 +10,6 @@
 # Make the app script executable.
 chmod +x app
 
-# Run the page.
+# Display the page.
 ./app
 ```
