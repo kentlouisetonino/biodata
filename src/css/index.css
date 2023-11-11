@@ -96,7 +96,7 @@ body {
   text-decoration-line: 1px;
 }
 
-/* Education information. */
+/* For education information styling. */
 .education {
   padding-top: 128px;
 }
@@ -129,4 +129,85 @@ body {
 .education-data-list-2 ul li {
   color: lightgray;
   margin-top: 16px;
+}
+
+/* For experience information styling. */
+.experience {
+  padding-top: 128px;
+}
+.experience-data {
+  padding-top: 32px;
+  display: flex;
+}
+.experience-data ul {
+  width: 100%;
+  list-style-type: none;
+}
+.experience-data-list-1 {
+  padding-left: 64px;
+}
+.experience-data-list-1 ul {
+  font-style: italic;
+  color: lightgray;
+}
+.experience-data-list-1 ul li {
+  color: lightgray;
+  margin-top: 16px;
+}
+.experience-data-list-2 {
+  padding-left: 64px;
+}
+.experience-data-list-2 ul {
+  font-weight: 900;
+  color: lightgray;
+}
+.experience-data-list-2 ul li {
+  color: lightgray;
+  margin-top: 16px;
+}
+
+/* For skills information styling. */
+.skills {
+  padding-top: 128px;
+}
+.skills-data {
+  padding-top: 32px;
+  display: flex;
+}
+.skills-data ul {
+  width: 100%;
+  list-style-type: none;
+}
+.skills-data-list-1 {
+  padding-left: 64px;
+}
+.skills-data-list-1 ul {
+  font-style: italic;
+  color: lightgray;
+}
+.skills-data-list-1 ul li {
+  color: lightgray;
+  margin-top: 16px;
+}
+.skills-data-list-2 {
+  padding-left: 64px;
+}
+.skills-data-list-2 ul {
+  font-weight: 900;
+  color: lightgray;
+}
+.skills-data-list-2 ul li {
+  color: lightgray;
+  margin-top: 16px;
+}
+
+/* For footer styling. */
+.footer {
+  padding: 16px;
+  margin-top: 128px;
+  border-top: 1px solid green;
+}
+
+.footer {
+  text-align: center;
 }
