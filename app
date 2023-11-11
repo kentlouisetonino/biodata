@@ -1,3 +1,3 @@
 #!/bin/bash
 
-brave-browser ./src/index.html
+brave-browser ./index.html
