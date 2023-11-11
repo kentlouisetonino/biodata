@@ -1,5 +1,5 @@
 ### Description
-> - My simple biodata.
+> - My simple biodata. The technologies are just vanilla HTML and CSS.
 
 <br />
 
