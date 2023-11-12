@@ -8,7 +8,7 @@
 <br />
 
 ### Development Guide
-> - If using unix/linux based machine, display the page through this..
+> - If using unix/linux based machine and using a brave browser, display the page through this.
 
 ```bash
 # Make the app script executable.
@@ -18,4 +18,4 @@ chmod +x app
 ./app
 ```
 
-> - Alternative options, go to the `src` diractory and click the `index.html` file.
+> - Alternative options, just click the `index.html` file.
