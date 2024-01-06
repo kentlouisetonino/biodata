@@ -1,4 +1,4 @@
-### Description
+## Description
 > - My simple biodata. The technologies are just vanilla HTML and CSS.
 
 > - This is intended only for my course project in AMA University.
@@ -8,7 +8,7 @@
 <br />
 <br />
 
-### Local Development
+## Local Development
 ```bash
 # Change mode permission and make it executable.
 chmod +x git-push-all
