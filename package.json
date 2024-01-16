@@ -1,0 +1,13 @@
+{
+  "name": "biodata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kent Louise Tonino <tonino.kentlouise@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"./**/*.{html,css,ts,js,json,prettierrc,yml}\""
+  },
+  "dependencies": {
+    "prettier": "^3.2.2"
+  }
+}
